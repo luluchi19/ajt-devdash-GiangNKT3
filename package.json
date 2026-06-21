@@ -1,0 +1,15 @@
+{
+  "name": "ajt-devdash",
+  "version": "1.0.0",
+  "description": "DevDash — A Typed Async Dashboard built with TypeScript, Vite, and DummyJSON API",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}
