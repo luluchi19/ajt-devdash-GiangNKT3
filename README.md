@@ -8,7 +8,7 @@ A single-page TypeScript dashboard that loads product data from [DummyJSON API](
 
 ## 🚀 Live Demo
 
-> **[🔗 Live Demo on GitHub Pages](https://<your-username>.github.io/ajt-devdash/)**
+> **[🔗 Live Demo on GitHub Pages](https://luluchi19.github.io/ajt-devdash-GiangNKT3/)**
 
 ---
 
